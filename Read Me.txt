@@ -1,0 +1,4 @@
+1. Install requirement.txt via pip install.
+2. Run "PropsAssignment" project.
+3. Then, open web browser and go to http://localhost:8000.
+4. Browse file and click Upload, then get updated file.
